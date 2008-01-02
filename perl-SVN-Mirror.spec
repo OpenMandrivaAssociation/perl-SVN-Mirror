@@ -30,6 +30,7 @@ BuildRequires:  subversion
 BuildRequires:  subversion-tools
 BuildConflicts:	perl-VCP-Dest-svk
 BuildArch:	noarch
+BuildRoot:	%{_tmppath}/%{name}-%{version}
 
 
 %description
