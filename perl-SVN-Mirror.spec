@@ -1,7 +1,7 @@
 %define	module	SVN-Mirror
 %define	name	perl-%{module}
-%define version 0.74
-%define release %mkrel 2
+%define version 0.75
+%define release %mkrel 1
 %define _requires_exceptions 'perl(VCP.*'
 
 Name:		%{name}
