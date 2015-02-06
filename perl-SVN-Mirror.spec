@@ -8,7 +8,7 @@
 
 Name:		perl-%{module}
 Version:	0.75
-Release:	3
+Release:	4
 License:	GPL or Artistic
 Group:		Development/Perl
 Summary:	Perl modules to mirror remote subversion repositories to local ones
