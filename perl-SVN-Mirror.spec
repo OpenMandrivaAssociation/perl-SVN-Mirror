@@ -13,7 +13,7 @@ License:	GPL or Artistic
 Group:		Development/Perl
 Summary:	Perl modules to mirror remote subversion repositories to local ones
 Source0:	http://search.cpan.org/CPAN/authors/id/C/CL/CLKAO/%{module}-%{version}.tar.bz2
-Url:		http://search.cpan.org/dist/%{module}/
+Url:		https://search.cpan.org/dist/%{module}/
 
 BuildRequires:	perl-devel
 BuildRequires:	perl-SVN
