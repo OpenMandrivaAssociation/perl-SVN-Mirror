@@ -15,6 +15,7 @@ Summary:	Perl modules to mirror remote subversion repositories to local ones
 Source0:	http://search.cpan.org/CPAN/authors/id/C/CL/CLKAO/%{module}-%{version}.tar.bz2
 Url:		https://search.cpan.org/dist/%{module}/
 
+BuildRequires:	make
 BuildRequires:	perl-devel
 BuildRequires:	perl-SVN
 BuildRequires:	perl-SVN-Simple
